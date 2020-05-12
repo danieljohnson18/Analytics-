@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="518px" viewBox="0 0 896 518" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Diagram</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="196.178703 357.944077 280.801547 357.916974 233.147519 440.728409 148.524674 440.755513"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polygon id="path-3" points="36.1506566 49.8347536 86.0403794 49.8186788 57.945764 98.9324742 8.0560412 98.948549"></polygon>
+        <polygon id="path-4" points="36.1506566 36.5176804 86.0403794 36.5016057 57.945764 85.615401 8.0560412 85.6314758"></polygon>
+        <polygon id="path-5" points="1 62.8314759 44.2120969 87.0424686 44.2120969 101.082685 1 76.1238032"></polygon>
+        <polygon id="path-6" points="44.1132927 59.2922668 93.0958759 86.9914805 93.0958759 101.031697 44.1132927 72.6071919"></polygon>
+        <polygon id="path-7" points="284.020739 222.109806 340.834189 189.661508 340.834189 237.360506 284.020739 269.484321"></polygon>
+        <linearGradient x1="106.553181%" y1="50%" x2="0%" y2="91.6711235%" id="linearGradient-8">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#402BB2" offset="26.3944648%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-9">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="305.329125 215.609756 323.715676 226.174364 323.715676 243.195122 305.329125 232.747898"></polygon>
+        <polygon id="path-11" points="274.170992 162.931177 332.640137 162.91245 299.714155 220.130023 241.24501 220.14875"></polygon>
+        <polygon id="path-12" points="233.050958 193.073171 283.981496 222.337015 283.981496 269.484321 233.050958 240.54563"></polygon>
+        <linearGradient x1="85.8087966%" y1="-41.0757333%" x2="50%" y2="133.535197%" id="linearGradient-13">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-14" points="50.9697812 78.7927324 107.783232 46.3444345 107.783232 94.0434325 50.9697812 126.167247"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#E8A182" offset="0%"></stop>
+            <stop stop-color="#CA734D" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-16" points="41.1200347 19.6141037 99.5891794 19.5953766 66.663197 76.8129501 8.19405234 76.8316772"></polygon>
+        <polygon id="path-17" points="340.834189 248.243902 391.764727 277.507747 391.764727 324.655052 340.834189 295.716361"></polygon>
+        <polygon id="path-18" points="596.252649 137.565323 654.721794 137.546596 621.795812 194.76417 563.326667 194.782897"></polygon>
+        <polygon id="path-19" points="21.987557 32.4673571 45.3813307 19.0967017 45.3813307 38.7515651 21.987557 51.988514"></polygon>
+        <polygon id="path-20" points="17.931779 8.0821935 42.0073091 8.07447681 28.4495517 31.6515674 4.37402155 31.6592841"></polygon>
+        <polygon id="path-21" points="1 20.2926829 21.9226273 32.4359107 21.9226273 52 1 39.9916969"></polygon>
+        <polygon id="path-22" points="605.220116 149.765371 662.033567 117.317073 662.033567 165.016071 605.220116 197.139886"></polygon>
+        <polygon id="path-23" points="555.132615 120.594639 611.946065 88.1463415 611.946065 135.845339 555.132615 167.969154"></polygon>
+        <linearGradient x1="177.490931%" y1="-158.292963%" x2="48.2979167%" y2="100%" id="linearGradient-24">
+            <stop stop-color="#36D1DC" offset="0%"></stop>
+            <stop stop-color="#509DE2" offset="69.2185741%"></stop>
+            <stop stop-color="#509DE2" offset="69.2185741%"></stop>
+            <stop stop-color="#509DE2" offset="69.2185741%"></stop>
+            <stop stop-color="#5592E4" offset="83.7772191%"></stop>
+            <stop stop-color="#5B86E5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-25" points="596.242486 90.0623827 654.711631 90.0436556 621.785649 147.261229 563.316504 147.279956"></polygon>
+        <polygon id="path-26" points="555.132615 120.780488 606.063153 150.044332 606.063153 197.191638 555.132615 168.252947"></polygon>
+        <polygon id="path-27" points="610.926288 87.5121951 661.856826 116.77604 661.856826 163.923345 610.926288 134.984654"></polygon>
+        <polygon id="path-28" points="50.9697812 78.7927324 107.783232 46.3444345 107.783232 94.0434325 50.9697812 126.167247"></polygon>
+        <polygon id="path-29" points="41.1200347 19.6141037 99.5891794 19.5953766 66.663197 76.8129501 8.19405234 76.8316772"></polygon>
+        <polygon id="path-30" points="448.617421 302.780488 499.547959 332.044332 499.547959 379.191638 448.617421 350.252947"></polygon>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-31">
+            <stop stop-color="#25214B" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-32">
+            <stop stop-color="#443B90" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-33" points="54.5676482 84.3545724 115.39146 49.6158064 115.39146 100.681792 54.5676482 135.073171"></polygon>
+        <polygon id="path-34" points="44.0226253 20.9986287 106.619004 20.9785797 71.3688345 82.2350407 8.77245603 82.2550897"></polygon>
+        <polygon id="path-35" points="660.37977 53.2682927 714.905405 84.5978204 714.905405 135.073171 660.37977 104.091749"></polygon>
+        <linearGradient x1="-50.8517614%" y1="87.0302762%" x2="96.1857561%" y2="58.5046351%" id="linearGradient-36">
+            <stop stop-color="#36D1DC" offset="0%"></stop>
+            <stop stop-color="#5B86E5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-37" points="53.8916158 0 72.2781671 10.5646082 72.2781671 27.5853659 53.8916158 17.1381422"></polygon>
+        <polygon id="path-38" points="61.1326537 48.6122949 145.755498 48.585191 98.1014698 131.396627 13.4786253 131.423731"></polygon>
+        <mask id="mask-39" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-38"></use>
+        </mask>
+        <polygon id="path-40" points="61.1326537 48.6122949 145.755498 48.585191 98.1014698 131.396627 13.4786253 131.423731"></polygon>
+        <mask id="mask-41" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-40"></use>
+        </mask>
+        <polygon id="path-42" points="61.1326537 48.6122949 145.755498 48.585191 98.1014698 131.396627 13.4786253 131.423731"></polygon>
+        <mask id="mask-43" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-42"></use>
+        </mask>
+        <polygon id="path-44" points="61.1326537 48.6122949 145.755498 48.585191 98.1014698 131.396627 13.4786253 131.423731"></polygon>
+        <mask id="mask-45" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-44"></use>
+        </mask>
+        <polygon id="path-46" points="65.3003533 59.1964097 127.896732 59.1763607 92.6465624 120.432822 30.050184 120.452871"></polygon>
+        <polygon id="path-47" points="60.4986347 40.3683924 145.121479 40.3412885 97.4674508 123.152724 12.8446063 123.179828"></polygon>
+        <mask id="mask-48" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="132.276873" height="82.8385397" fill="white">
+            <use xlink:href="#path-47"></use>
+        </mask>
+        <polygon id="path-49" points="45.011745 21.1476292 107.608123 21.1275802 72.3579541 82.3840412 9.76157568 82.4040902"></polygon>
+        <polygon id="path-50" points="1 53.3999247 55.218748 84.7106665 55.218748 93.5894388 1 62.2951847"></polygon>
+        <polygon id="path-51" points="55.5520072 49.5950467 116.39146 84.6044206 116.39146 93.4831929 55.5256349 58.4661216"></polygon>
+        <polygon id="path-52" points="45.011745 21.1476292 107.608123 21.1275802 72.3579541 82.3840412 9.76157568 82.4040902"></polygon>
+        <polygon id="path-53" points="65.3003533 21.1476292 127.896732 21.1275802 92.6465624 82.3840412 30.050184 82.4040902"></polygon>
+        <polygon id="path-54" points="21.2886083 53.3999247 75.5073563 84.7106665 75.5073563 93.5894388 21.2886083 62.2951847"></polygon>
+        <polygon id="path-55" points="75.8456752 49.5950467 136.680068 84.6273922 136.680068 93.5061645 75.8142432 58.4890932"></polygon>
+        <polygon id="path-56" points="36.1506566 49.8347536 86.0403794 49.8186788 57.945764 98.9324742 8.0560412 98.948549"></polygon>
+        <polygon id="path-57" points="36.1506566 36.5176804 86.0403794 36.5016057 57.945764 85.615401 8.0560412 85.6314758"></polygon>
+        <polygon id="path-58" points="1 62.8314759 44.2120969 87.0424686 44.2120969 101.082685 1 76.1238032"></polygon>
+        <polygon id="path-59" points="44.1132927 59.2922668 93.0958759 86.9914805 93.0958759 101.031697 44.1132927 72.6071919"></polygon>
+        <linearGradient x1="-33.2213779%" y1="57.1517716%" x2="101.999998%" y2="100.999999%" id="linearGradient-60">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#9554C9" offset="66.4970342%"></stop>
+            <stop stop-color="#C56CD6" offset="97.7281084%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Platform" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-192.000000, -173.000000)" id="Diagram">
+            <g transform="translate(191.000000, 169.000000)">
+                <g id="new_API-Copy-3" transform="translate(555.000000, 71.000000)"></g>
+                <g id="Group-6">
+                    <g id="Group-4-Copy-2" transform="translate(233.050958, 143.317073)"></g>
+                    <g id="new_API-Copy" transform="translate(340.834189, 198.487805)"></g>
+                    <g id="Group-4-Copy-2" transform="translate(555.132615, 71.024390)"></g>
+                    <g id="new_API-Copy-2" transform="translate(448.617421, 253.024390)"></g>
+                    <g id="Group-5">
+                        <use id="Rectangle-4-Copy-14" stroke="#273341" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="2" transform="translate(214.663111, 399.336243) rotate(30.000000) translate(-214.663111, -399.336243) " xlink:href="#path-1"></use>
+                        <polyline id="Path-6" stroke="#F7575D" stroke-width="2" stroke-linecap="round" stroke-dasharray="4" points="609.65825 152.829268 609.65825 272.052257 220.370577 501.609756 220.370577 400.138238"></polyline>
+                        <polyline id="Path-3" stroke="#273341" stroke-width="2" points="241.927224 425.436119 309.778137 461.658537 476.252493 365.332639 716.807462 225.167055 634.335558 180.731707"></polyline>
+                        <polyline id="Path-3-Copy" stroke="#273341" stroke-width="2" points="166.583352 381.121951 99.2729465 344.15877 273.287205 243.730343 503.853438 110.341463 634.384991 180.627424"></polyline>
+                        <g id="Group-17-Copy-4" transform="translate(164.844943, 327.853659)">
+                            <g id="Rectangle-4-Copy-18" transform="translate(47.048210, 74.383614) rotate(30.000000) translate(-47.048210, -74.383614) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <path stroke="#273341" stroke-width="1" d="M36.4407196,50.3346602 L8.91824071,98.4482711 L57.655701,98.4325676 L85.1781799,50.3189567 L36.4407196,50.3346602 Z"></path>
+                            </g>
+                            <g id="Rectangle-4-Copy-17" transform="translate(47.048210, 61.066541) rotate(30.000000) translate(-47.048210, -61.066541) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <path stroke="#273341" stroke-width="1" d="M36.4407196,37.017587 L8.91824071,85.131198 L57.655701,85.1154945 L85.1781799,37.0018835 L36.4407196,37.017587 Z"></path>
+                            </g>
+                            <g id="Group-17-Copy" transform="translate(18.118513, 34.243902)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Group-17-Copy-2" transform="translate(18.118513, 19.024390)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Group-17-Copy-3" transform="translate(18.118513, 0.000000)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Rectangle-13-Copy-2">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M1.5,63.6847483 L1.5,75.835188 L43.7120969,100.21648 L43.7120969,87.3354582 L1.5,63.6847483 Z"></path>
+                            </g>
+                            <g id="Rectangle-13-Copy-3" transform="translate(68.604584, 80.161982) scale(-1, 1) translate(-68.604584, -80.161982) ">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M44.6132927,60.1494208 L44.6132927,72.3192523 L92.5958759,100.163459 L92.5958759,87.2831434 L44.6132927,60.1494208 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Services" transform="translate(750.410470, 5.073171)" stroke="#273341">
+                            <g id="Group-2-Copy" transform="translate(0.000000, 3.804878)" stroke-linecap="square" stroke-dasharray="5">
+                                <polyline id="Line-2" points="19.3375798 77.6829268 106.198184 27.5853659 137.027629 45.5660931"></polyline>
+                                <polyline id="Line-2-Copy-2" points="0 63.4146341 84.1083739 14.6370062 57.0964192 0.143414381"></polyline>
+                                <polyline id="Line-2-Copy" points="11.0953327 70.0731707 97.955937 19.9756098 127.267991 3.2924969"></polyline>
+                            </g>
+                            <ellipse id="Oval-4-Copy-5" fill="#4A90E2" cx="57.0617109" cy="3.48780488" rx="5.07215208" ry="3.48780488"></ellipse>
+                            <ellipse id="Oval-4-Copy-4" fill="#4A90E2" cx="127.437821" cy="7.29268293" rx="5.07215208" ry="3.48780488"></ellipse>
+                            <ellipse id="Oval-4-Copy-3" fill="#4A90E2" cx="140.75222" cy="51.0487805" rx="5.07215208" ry="3.48780488"></ellipse>
+                        </g>
+                        <polyline id="Path-4" stroke="#273341" stroke-width="2" points="581.090438 181.970707 364.887712 307.964108 252.211482 373.423969"></polyline>
+                        <polygon id="Rectangle-5" fill="#D8D8D8" points="233.050958 193.23082 340.834189 189.661508 340.834189 237.036023 284.020739 269.484321 233.050958 240.605335"></polygon>
+                        <g id="Rectangle-7">
+                            <use fill="#4D57D0" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            <path stroke="#646DDC" stroke-width="1" d="M284.520739,222.40004 L284.520739,268.627215 L340.334189,237.068826 L340.334189,190.52288 L284.520739,222.40004 Z"></path>
+                        </g>
+                        <g id="Rectangle-6-Copy" transform="translate(314.522400, 229.402439) scale(-1, 1) translate(-314.522400, -229.402439) ">
+                            <use fill="url(#linearGradient-8)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                            <path stroke="url(#linearGradient-9)" stroke-width="1" d="M305.829125,216.473708 L305.829125,232.456922 L323.215676,242.335946 L323.215676,226.463732 L305.829125,216.473708 Z"></path>
+                        </g>
+                        <path d="M346.54036,253.02439 L306.597163,232.097561" id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3"></path>
+                        <g id="Rectangle-4-Copy-4" transform="translate(286.942573, 191.530600) rotate(30.000000) translate(-286.942573, -191.530600) ">
+                            <use fill="#4D57D0" fill-rule="evenodd" xlink:href="#path-11"></use>
+                            <path stroke="#646DDC" stroke-width="1" d="M274.460196,163.431084 L242.109772,219.648473 L299.424951,219.630116 L331.775375,163.412727 L274.460196,163.431084 Z"></path>
+                        </g>
+                        <g id="Rectangle-6-Copy-7">
+                            <use fill="#4D57D0" fill-rule="evenodd" xlink:href="#path-12"></use>
+                            <path stroke="#646DDC" stroke-width="1" d="M233.550958,193.937122 L233.550958,240.254653 L283.481496,268.625145 L283.481496,222.626383 L233.550958,193.937122 Z"></path>
+                        </g>
+                        <ellipse id="Oval-4-Copy-2" stroke="url(#linearGradient-9)" fill="url(#linearGradient-13)" transform="translate(256.952803, 230.768148) rotate(38.000000) translate(-256.952803, -230.768148) " cx="256.952803" cy="230.768148" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="255.875642 253.150396 255.875642 234.184431 260.846766 230.829268"></polyline>
+                        <g id="Group-4-Copy-2" transform="translate(340.834189, 198.487805)">
+                            <polygon id="Rectangle-5" fill="#D8D8D8" points="0 49.9137473 107.783232 46.3444345 107.783232 93.7189495 50.9697812 126.167247 0 97.2882623"></polygon>
+                            <g id="Rectangle-7">
+                                <use fill="#F79F79" fill-rule="evenodd" xlink:href="#path-14"></use>
+                                <path stroke="#CA734D" stroke-width="1" d="M51.4697812,79.082967 L51.4697812,125.310142 L107.283232,93.7517531 L107.283232,47.2058067 L51.4697812,79.082967 Z"></path>
+                            </g>
+                            <polygon id="Rectangle-6-Copy" stroke="#D67E57" fill="url(#linearGradient-15)" transform="translate(79.569386, 86.085366) scale(-1, 1) translate(-79.569386, -86.085366) " points="70.3761101 72.2926829 88.7626614 82.8572911 88.7626614 99.8780488 70.3761101 89.4308251"></polygon>
+                            <path d="M117.293517,112.878049 L72.2781671,89.4146341" id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3"></path>
+                            <g id="Rectangle-4-Copy-4" transform="translate(53.891616, 48.213527) rotate(30.000000) translate(-53.891616, -48.213527) ">
+                                <use fill="#F79F79" fill-rule="evenodd" xlink:href="#path-16"></use>
+                                <path stroke="#CA734D" stroke-width="1" d="M41.4092382,20.1140111 L9.05881422,76.3314002 L66.3739935,76.3130427 L98.7244175,20.0956536 L41.4092382,20.1140111 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-6-Copy-7">
+                            <use fill="#F79F79" fill-rule="evenodd" xlink:href="#path-17"></use>
+                            <path stroke="#CA734D" stroke-width="1" d="M341.334189,249.107854 L341.334189,295.425385 L391.264727,323.795877 L391.264727,277.797115 L341.334189,249.107854 Z"></path>
+                        </g>
+                        <ellipse id="Oval-4-Copy-2" stroke="#D67E57" fill="url(#linearGradient-15)" transform="translate(365.364527, 286.798613) rotate(38.000000) translate(-365.364527, -286.798613) " cx="365.364527" cy="286.798613" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="363.658874 308.925162 363.658874 289.959197 368.629998 286.604034"></polyline>
+                        <g id="Rectangle-4-Copy-10" transform="translate(609.024231, 166.164746) rotate(30.000000) translate(-609.024231, -166.164746) ">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-18"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M596.541853,138.065231 L564.191429,194.28262 L621.506608,194.264262 L653.857032,138.046873 L596.541853,138.065231 Z"></path>
+                        </g>
+                        <g id="Group-4" transform="translate(588.369641, 116.048780)">
+                            <g id="Group-3" transform="translate(-0.000000, 0.000000)">
+                                <g id="Group-4-Copy-4" transform="translate(-0.000000, 0.000000)">
+                                    <polygon id="Rectangle-5" fill="#D8D8D8" points="1 20.5674738 45.3813307 19.0967017 45.3813307 38.6178586 21.987557 51.988514 1 40.0886307"></polygon>
+                                    <g id="Rectangle-7">
+                                        <use fill="#F7585D" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                        <path stroke="#F7585D" stroke-width="1" d="M22.487557,32.7574884 L22.487557,51.1311055 L44.8813307,38.4599888 L44.8813307,19.9583806 L22.487557,32.7574884 Z"></path>
+                                    </g>
+                                    <g id="Rectangle-4-Copy-4" transform="translate(23.190665, 19.866880) rotate(30.000000) translate(-23.190665, -19.866880) ">
+                                        <use fill="#F7585D" fill-rule="evenodd" xlink:href="#path-20"></use>
+                                        <path stroke="#50E3C2" stroke-width="1" d="M18.221086,8.5821008 L5.23847406,31.159007 L28.1602447,31.1516601 L41.1428566,8.57475391 L18.221086,8.5821008 Z"></path>
+                                    </g>
+                                </g>
+                                <g id="Rectangle-6-Copy-12">
+                                    <use fill="#F7585D" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                    <path stroke="#50E3C2" stroke-width="1" d="M1.5,21.1609876 L1.5,39.702167 L21.4226273,51.1365315 L21.4226273,32.7238281 L1.5,21.1609876 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Rectangle-7-Copy-3" opacity="0.56080163">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-22"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M605.720116,150.055606 L605.720116,196.28278 L661.533567,164.724392 L661.533567,118.178445 L605.720116,150.055606 Z"></path>
+                        </g>
+                        <g id="Rectangle-7-Copy-2" opacity="0.813292572">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-23"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M555.632615,120.884874 L555.632615,167.112049 L611.446065,135.55366 L611.446065,89.0077137 L555.632615,120.884874 Z"></path>
+                        </g>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="583.029451 152.291016 583.029451 132.099558 595.151245 140.625159"></polyline>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="634.759151 181.329666 634.759151 161.138208 620.436573 152.195122"></polyline>
+                        <ellipse id="Oval-4-Copy-2" stroke="#50E3C2" opacity="0.621263587" transform="translate(634.822606, 157.432759) rotate(-36.000000) translate(-634.822606, -157.432759) " cx="634.822606" cy="157.432759" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <ellipse id="Oval-4-Copy-6" stroke="#50E3C2" fill="url(#linearGradient-24)" opacity="0.744565217" transform="translate(584.100974, 128.626899) rotate(-31.000000) translate(-584.100974, -128.626899) " cx="584.100974" cy="128.626899" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <g id="Rectangle-4-Copy-4" opacity="0.487035779" transform="translate(609.014068, 118.661806) rotate(30.000000) translate(-609.014068, -118.661806) ">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-25"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M596.53169,90.5622901 L564.181266,146.779679 L621.496445,146.761322 L653.846869,90.5439326 L596.53169,90.5622901 Z"></path>
+                        </g>
+                        <g id="Rectangle-6-Copy-7" opacity="0.476675725">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-26"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M555.632615,121.644439 L555.632615,167.96197 L605.563153,196.332462 L605.563153,150.333701 L555.632615,121.644439 Z"></path>
+                        </g>
+                        <g id="Rectangle-6-Copy-11" opacity="0.476675725">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-27"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M611.426288,88.3761467 L611.426288,134.693678 L661.356826,163.064169 L661.356826,117.065408 L611.426288,88.3761467 Z"></path>
+                        </g>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="580.233516 181.963812 580.233516 161.772354 595.041542 153.331333"></polyline>
+                        <ellipse id="Oval-4-Copy-2" stroke="#50E3C2" fill="url(#linearGradient-24)" opacity="0.653702446" transform="translate(580.296971, 158.701052) rotate(38.000000) translate(-580.296971, -158.701052) " cx="580.296971" cy="158.701052" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <g id="Group-4-Copy-2" transform="translate(448.617421, 253.024390)">
+                            <polygon id="Rectangle-5" fill="#D8D8D8" points="0 49.9137473 107.783232 46.3444345 107.783232 93.7189495 50.9697812 126.167247 0 97.2882623"></polygon>
+                            <g id="Rectangle-7">
+                                <use fill="#27235C" fill-rule="evenodd" xlink:href="#path-28"></use>
+                                <path stroke="#40399F" stroke-width="1" d="M51.4697812,79.082967 L51.4697812,125.310142 L107.283232,93.7517531 L107.283232,47.2058067 L51.4697812,79.082967 Z"></path>
+                            </g>
+                            <g id="Rectangle-4-Copy-4" transform="translate(53.891616, 48.213527) rotate(30.000000) translate(-53.891616, -48.213527) ">
+                                <use fill="#27235C" fill-rule="evenodd" xlink:href="#path-29"></use>
+                                <path stroke="#40399F" stroke-width="1" d="M41.4092382,20.1140111 L9.05881422,76.3314002 L66.3739935,76.3130427 L98.7244175,20.0956536 L41.4092382,20.1140111 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-6-Copy-7">
+                            <use fill="#27235C" fill-rule="evenodd" xlink:href="#path-30"></use>
+                            <path stroke="#40399F" stroke-width="1" d="M449.117421,303.644439 L449.117421,349.96197 L499.047959,378.332462 L499.047959,332.333701 L449.117421,303.644439 Z"></path>
+                        </g>
+                        <ellipse id="Oval-4-Copy-2" stroke="url(#linearGradient-32)" fill="url(#linearGradient-31)" transform="translate(473.781778, 340.701052) rotate(38.000000) translate(-473.781778, -340.701052) " cx="473.781778" cy="340.701052" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <polyline id="Path-5" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="1,3" points="474.716709 366.028445 474.716709 343.707317 478.63999 340.015907"></polyline>
+                        <g id="Group-4-Copy-3" transform="translate(660.379770, 0.000000)">
+                            <polygon id="Rectangle-5" fill="#D8D8D8" points="0 53.4370706 115.39146 49.6158064 115.39146 100.334405 54.5676482 135.073171 0 104.155669"></polygon>
+                            <g id="Rectangle-7">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-33"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M55.0676482,84.644807 L55.0676482,134.216065 L114.89146,100.390113 L114.89146,50.4771786 L55.0676482,84.644807 Z"></path>
+                            </g>
+                            <g id="Rectangle-4-Copy-4" transform="translate(57.695730, 51.616835) rotate(30.000000) translate(-57.695730, -51.616835) ">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-34"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M44.3118288,21.4985361 L9.63721792,81.7548127 L71.079631,81.7351333 L105.754242,21.4788567 L44.3118288,21.4985361 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-6-Copy-10">
+                            <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-35"></use>
+                            <path stroke="#50E3C2" stroke-width="1" d="M660.87977,54.1322442 L660.87977,103.800772 L714.405405,134.213995 L714.405405,84.8871885 L660.87977,54.1322442 Z"></path>
+                        </g>
+                        <g id="Pipe" transform="translate(624.874706, 80.536585)">
+                            <g id="Rectangle-6-Copy-9">
+                                <use fill="url(#linearGradient-36)" fill-rule="evenodd" xlink:href="#path-37"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M54.3916158,0.863951539 L54.3916158,16.8471656 L71.7781671,26.7261901 L71.7781671,10.8539763 L54.3916158,0.863951539 Z"></path>
+                            </g>
+                            <path d="M3.03607604,31.9371223 L3.03607604,47.9203364 L20.4226273,57.7993608 L20.4226273,41.927147 L3.03607604,31.9371223 Z" id="Rectangle-6-Copy-8" stroke="#273341"></path>
+                            <path d="M61.8168535,24.4146341 L0.63401901,59.6097561" id="Line-3" stroke="#273341" stroke-width="2" stroke-linecap="round" stroke-dasharray="3"></path>
+                            <path d="M54.2086253,0.951219512 L2.85308554,31.3902439" id="Line-4-Copy-7" stroke="#273341" stroke-linecap="square"></path>
+                            <path d="M71.3271386,11.097561 L20.6056178,41.5365854" id="Line-4-Copy-6" stroke="#273341" stroke-linecap="square"></path>
+                            <path d="M71.9611576,26.9512195 L20.6056178,58.0243902" id="Line-4-Copy-5" stroke="#273341" stroke-linecap="square"></path>
+                            <polygon id="Triangle" fill="#273341" transform="translate(64.366552, 20.849902) rotate(43.000000) translate(-64.366552, -20.849902) " points="68.764074 14.8717365 70.0398089 25.3258827 58.6932945 28.1445599 67.5366716 13.5552443"></polygon>
+                            <polygon id="Triangle-Copy" fill="#273341" transform="translate(47.269749, 30.292919) rotate(47.000000) translate(-47.269749, -30.292919) " points="51.6238044 22.0365854 52.9430061 35.7305748 41.5964917 38.5492519"></polygon>
+                            <polygon id="Triangle-Copy-3" fill="#273341" transform="translate(25.713103, 42.341699) rotate(43.000000) translate(-25.713103, -42.341699) " points="30.067158 34.0853659 31.3863597 47.7793553 20.0398453 50.5980324"></polygon>
+                        </g>
+                        <path d="M679.083331,97.9756098 L627.796038,127.761309" id="Line-4-Copy-4" stroke="#273341" stroke-linecap="square"></path>
+                        <ellipse id="Oval-4-Copy-2" stroke="#273341" fill="#4A90E2" transform="translate(241.927224, 425.195122) rotate(15.000000) translate(-241.927224, -425.195122) " cx="241.927224" cy="425.195122" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <ellipse id="Oval-4-Copy-7" stroke="#273341" fill="#4A90E2" transform="translate(167.208661, 381.364921) rotate(5.000000) translate(-167.208661, -381.364921) " cx="167.208661" cy="381.364921" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <ellipse id="Oval-4-Copy-9" stroke="#273341" fill="#4A90E2" transform="translate(252.801228, 373.121018) rotate(18.000000) translate(-252.801228, -373.121018) " cx="252.801228" cy="373.121018" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <ellipse id="Oval-4-Copy-10" stroke="#273341" fill="#4A90E2" transform="translate(252.801228, 373.121018) rotate(18.000000) translate(-252.801228, -373.121018) " cx="252.801228" cy="373.121018" rx="5.07215208" ry="3.48780488"></ellipse>
+                        <g id="Group-2" transform="translate(0.000000, 386.697636)">
+                            <use id="Rectangle-4-Copy-7" stroke="#273341" mask="url(#mask-39)" stroke-width="2" stroke-dasharray="2" transform="translate(79.617062, 90.004461) rotate(30.000000) translate(-79.617062, -90.004461) " xlink:href="#path-38"></use>
+                            <use id="Rectangle-4-Copy-11" stroke="#273341" mask="url(#mask-41)" stroke-width="2" stroke-dasharray="2" transform="translate(79.617062, 90.004461) rotate(30.000000) translate(-79.617062, -90.004461) " xlink:href="#path-40"></use>
+                            <use id="Rectangle-4-Copy-12" stroke="#273341" mask="url(#mask-43)" stroke-width="2" stroke-dasharray="2" transform="translate(79.617062, 90.004461) rotate(30.000000) translate(-79.617062, -90.004461) " xlink:href="#path-42"></use>
+                            <use id="Rectangle-4-Copy-13" stroke="#273341" mask="url(#mask-45)" stroke-width="2" stroke-dasharray="2" transform="translate(79.617062, 90.004461) rotate(30.000000) translate(-79.617062, -90.004461) " xlink:href="#path-44"></use>
+                            <g id="Rectangle-4-Copy-9" transform="translate(78.973458, 89.814616) rotate(30.000000) translate(-78.973458, -89.814616) ">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-46"></use>
+                                <path stroke="#273341" stroke-width="1" d="M65.5895568,59.6963171 L30.9149459,119.952594 L92.3573589,119.932914 L127.03197,59.6766377 L65.5895568,59.6963171 Z"></path>
+                            </g>
+                            <use id="Rectangle-4-Copy-6" stroke="#273341" mask="url(#mask-48)" stroke-width="2" stroke-dasharray="2" transform="translate(78.983043, 81.760558) rotate(30.000000) translate(-78.983043, -81.760558) " xlink:href="#path-47"></use>
+                            <g id="Group" transform="translate(20.288608, 29.804878)">
+                                <g id="Rectangle-4-Copy-5" transform="translate(58.684850, 51.765835) rotate(30.000000) translate(-58.684850, -51.765835) ">
+                                    <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-49"></use>
+                                    <path stroke="#273341" stroke-width="1" d="M45.3009485,21.6475366 L10.6263376,81.9038132 L72.0687506,81.8841338 L106.743362,21.6278572 L45.3009485,21.6475366 Z"></path>
+                                </g>
+                                <g id="Rectangle-13">
+                                    <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-50"></use>
+                                    <path stroke="#273341" stroke-width="1" d="M1.5,54.2660544 L1.5,62.0064682 L54.718748,92.7235372 L54.718748,84.9993069 L1.5,54.2660544 Z"></path>
+                                </g>
+                                <g id="Rectangle-13-Copy" transform="translate(85.958547, 71.539120) scale(-1, 1) translate(-85.958547, -71.539120) ">
+                                    <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-51"></use>
+                                    <path stroke="#273341" stroke-width="1" d="M56.0494435,50.4581637 L56.0264953,58.1774322 L115.89146,92.6186927 L115.89146,84.8935742 L56.0494435,50.4581637 Z"></path>
+                                </g>
+                            </g>
+                            <g id="Group-3-Copy" transform="translate(20.288608, 8.243902)">
+                                <g id="Rectangle-4-Copy-9" transform="translate(58.684850, 51.765835) rotate(30.000000) translate(-58.684850, -51.765835) ">
+                                    <use fill="#273341" fill-rule="evenodd" xlink:href="#path-52"></use>
+                                    <path stroke="#273341" stroke-width="1" d="M45.3009485,21.6475366 L10.6263376,81.9038132 L72.0687506,81.8841338 L106.743362,21.6278572 L45.3009485,21.6475366 Z"></path>
+                                </g>
+                            </g>
+                            <path d="M170.600085,34.0584613 L114.172393,65.7657784" id="Line-3" stroke="#273341" stroke-width="2" stroke-linecap="square"></path>
+                            <g id="Rectangle-4-Copy-8" transform="translate(78.973458, 51.765835) rotate(30.000000) translate(-78.973458, -51.765835) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-53"></use>
+                                <path stroke="#273341" stroke-width="1" d="M65.5895568,21.6475366 L30.9149459,81.9038132 L92.3573589,81.8841338 L127.03197,21.6278572 L65.5895568,21.6475366 Z"></path>
+                            </g>
+                            <g id="Rectangle-13-Copy-3">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-54"></use>
+                                <path stroke="#273341" stroke-width="1" d="M21.7886083,54.2660544 L21.7886083,62.0064682 L75.0073563,92.7235372 L75.0073563,84.9993069 L21.7886083,54.2660544 Z"></path>
+                            </g>
+                            <g id="Rectangle-13-Copy-2" transform="translate(106.247156, 71.550606) scale(-1, 1) translate(-106.247156, -71.550606) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-55"></use>
+                                <path stroke="#273341" stroke-width="1" d="M76.3426279,50.458203 L76.3152662,58.2004973 L136.180068,92.6416642 L136.180068,84.9164392 L76.3426279,50.458203 Z"></path>
+                            </g>
+                        </g>
+                        <g id="Group-17" transform="translate(462.833877, 152.829268)">
+                            <g id="Rectangle-4-Copy-18" transform="translate(47.048210, 74.383614) rotate(30.000000) translate(-47.048210, -74.383614) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-56"></use>
+                                <path stroke="#273341" stroke-width="1" d="M36.4407196,50.3346602 L8.91824071,98.4482711 L57.655701,98.4325676 L85.1781799,50.3189567 L36.4407196,50.3346602 Z"></path>
+                            </g>
+                            <g id="Rectangle-4-Copy-17" transform="translate(47.048210, 61.066541) rotate(30.000000) translate(-47.048210, -61.066541) ">
+                                <use fill="#273341" fill-rule="evenodd" xlink:href="#path-57"></use>
+                                <path stroke="#273341" stroke-width="1" d="M36.4407196,37.017587 L8.91824071,85.131198 L57.655701,85.1154945 L85.1781799,37.0018835 L36.4407196,37.017587 Z"></path>
+                            </g>
+                            <g id="Group-17-Copy" transform="translate(18.118513, 34.243902)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Group-17-Copy-2" transform="translate(18.118513, 19.024390)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Group-17-Copy-3" transform="translate(18.118513, 0.000000)">
+                                <g id="Group-16">
+                                    <ellipse id="Oval" fill="#3A73B5" cx="27.8968364" cy="26" rx="27.2628174" ry="18.3902439"></ellipse>
+                                    <path d="M0.451477399,20.2496612 C3.7659146,27.2681278 7.72466423,31.8580287 12.3277263,34.0193641 C16.9307884,36.1806995 22.1204917,37.3468714 27.8968364,37.5178798 C33.8267676,37.1671028 39.2716274,35.8546288 44.231416,33.5804578 C49.1912045,31.3062868 52.8856792,26.8626879 55.3148402,20.2496612 L55.1596539,26.6291913 C54.3462985,31.6299879 51.0922197,35.92272 45.3974176,39.5073875 C44.1564667,40.2885202 43.3765147,40.5080538 42.0759303,41.091386 C39.0686791,42.4401846 34.3423145,43.3203781 27.8968364,43.7319666 C20.5897094,43.2493132 14.6039743,41.6851792 9.939631,39.0395647 C5.27528772,36.3939502 2.18729203,32.257159 0.675643942,26.6291913 L0.451477399,20.2496612 Z" id="Rectangle" fill="#3A73B5"></path>
+                                    <ellipse id="Oval-Copy" stroke="#273341" fill="#4A90E2" cx="27.8968364" cy="18.3902439" rx="27.2628174" ry="18.3902439"></ellipse>
+                                </g>
+                            </g>
+                            <g id="Rectangle-13-Copy-2">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-58"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M1.5,63.6847483 L1.5,75.835188 L43.7120969,100.21648 L43.7120969,87.3354582 L1.5,63.6847483 Z"></path>
+                            </g>
+                            <g id="Rectangle-13-Copy-3" transform="translate(68.604584, 80.161982) scale(-1, 1) translate(-68.604584, -80.161982) ">
+                                <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-59"></use>
+                                <path stroke="#50E3C2" stroke-width="1" d="M44.6132927,60.1494208 L44.6132927,72.3192523 L92.5958759,100.163459 L92.5958759,87.2831434 L44.6132927,60.1494208 Z"></path>
+                            </g>
+                        </g>
+                        <path d="M323.081657,216.243902 L362.342118,236.432569" id="Path-5-Copy" stroke="url(#linearGradient-60)"></path>
+                        <path d="M323.081657,232.097561 L347.491389,245.097561" id="Path-5-Copy-7" stroke="url(#linearGradient-60)"></path>
+                        <path d="M411.844318,281.560976 L451.104779,301.749642" id="Path-5-Copy-3" stroke="#CA734D"></path>
+                        <path d="M411.844318,297.414634 L448.85066,316.444179" id="Path-5-Copy-6" stroke="#CA734D"></path>
+                        <path d="M428.962832,271.414634 L468.78849,291.893939" id="Path-5-Copy-4" stroke="#CA734D"></path>
+                        <path d="M428.962832,287.268293 L454.128048,300.208848" id="Path-5-Copy-8" stroke="#CA734D"></path>
+                        <path d="M305.963144,226.390244 L345.223604,246.578911" id="Path-5-Copy-2" stroke="url(#linearGradient-60)"></path>
+                        <path d="M305.963144,242.878049 L341.151199,261.585366" id="Path-5-Copy-5" stroke="url(#linearGradient-60)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
