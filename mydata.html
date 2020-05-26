@@ -13,10 +13,7 @@
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
-    <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
-      rel="stylesheet"
-    />
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 
     <!-- Vendor CSS Files -->
     <link
@@ -55,7 +52,7 @@
             <li><a href="#services">Services</a></li>
             <li><a href="#team">Team</a></li>-->
             <li class="drop-down">
-              <a href="Products.html">Products</a>
+              <a href="#">Products</a>
               <ul>
                 <li><a href="mydata.html">myDATA</a></li>
                 <li class="drop-down">
@@ -80,14 +77,31 @@
                 <li><a href="retailandcpg.html">Retails and CPG</a></li>
               </ul>
             </li>
-            <li><a href="#about">About</a></li>
+            
+            <li><a href="about.html">About</a></li>
+            <li class="drop-down">
+              <a href="#">Login</a>
+              <ul>
+                <li><a href="https://mydata.ai">myDATA.ai</a></li>
+                <li><a href="https://idntity.ai">IDntity</a></li>
+                <li><a href="https://onescore.ai">OneScore</a></li>
+                <li><a href="https://mymoni.ai">MONI</a></li>
+              </ul>
+            </li>
 
             <!-- <li><a href="#contact">Contact</a></li>-->
           </ul>
         </nav>
         <!-- .nav-menu -->
 
-        <a href="#about" class="get-started-btn scrollto">Login</a>
+        <!--<li class="drop-down">
+          <a href="#">Login</a>
+          <ul>
+            <li><a href="https://mydata.ai">myDATA.ai</a></li>
+            <li><a href="government.html">Government</a></li>
+            <li><a href="retailandcpg.html">Retails and CPG</a></li>
+          </ul>
+        </li>-->
       </div>
     </header>
     <!-- End Header -->
@@ -103,8 +117,8 @@
           >
             <h1>myDATA.ai</h1>
             <h2>
-              Your very own AI personal data scientist. A data analytics and business intelligence software 
-              build on an AI-powered conversational engine.​.​
+              Your very own AI personal data scientist.<br> A data analytics and business intelligence software<br> 
+              built on an AI-powered conversational engine.​
             </h2>
             <div class="d-lg-flex">
               <a href="Demo.html" class="btn-get-started scrollto">Get a Demo</a>
@@ -115,11 +129,7 @@
             data-aos="zoom-in"
             data-aos-delay="200"
           >
-            <img
-              src="assets/img/Asset 2.png"
-              class="img-fluid animated"
-              alt=""
-            />
+           <canvas id=c></canvas>
           </div>
         </div>
       </div>
@@ -179,7 +189,7 @@
             <div class="accordion-list">
               <ul>
                 <li>
-                  <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span>01</span> Meet myDATA<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-toggle="collapse" class="collapse" href="#accordion-list-1"><span></span> Meet myDATA<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-parent=".accordion-list">
                     <p>
                        Data Analytics Team Assistant [DATA], digital assistant for all your data retrieval and reporting needs
@@ -188,7 +198,7 @@
                 </li>
 
                 <li>
-                  <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span>02</span>Do you speak DATA?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-toggle="collapse" href="#accordion-list-2" class="collapsed"><span></span>Do you speak DATA?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-parent=".accordion-list">
                     <p>
                        Best in class Natural Language Progressing (NLP) engine for data retrieval and analytics
@@ -197,7 +207,7 @@
                 </li>
 
                 <li>
-                  <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span>03</span> myDATA <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-toggle="collapse" href="#accordion-list-3" class="collapsed"><span></span>myDATA <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-parent=".accordion-list">
                     <p>
                      Your one source of truth.Track KPIs that matter, set goals and targets then let DATA monitor then and notify you when of key changes
@@ -409,5 +419,6 @@
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>
+<script src="assets/canvas.js"></script>
 </body>
 </html>
