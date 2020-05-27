@@ -961,13 +961,13 @@ products
   grid-row-gap: 30px;
   margin: 0px;
   background-color: #e9eef7b4;
-  padding: 30px;
+  padding: 40px;
   margin: 0px;
 }
 
 @media (max-width: 991px) {
   #parent {
-    grid-template-columns: repeat(2, 1fr) !important;
+    grid-template-columns: repeat(1, 1fr) !important;
   }
 }
 
