@@ -446,8 +446,8 @@ h6 {
   width: 1000px;
 }
 #hero canvas {
-  width: 2000px;
-  height: 500px;
+  width: 800px;
+  height: 200px;
 }
 
 #hero .col-lg-6 {
@@ -653,7 +653,7 @@ section {
   filter: grayscale(100);
 }
 
-.cliens img:hover {
+.cliensimg: hover {
   -webkit-filter: none;
   filter: none;
   transform: scale(1.1);
@@ -670,74 +670,39 @@ ILLUSTRATION
 --------------------------------------------------------------------*/
 
 #illustrate {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-  width: 50px;
+  padding: 80px 0;
 }
 
+#illustrate,
 #illustrate .AI {
-  grid-area: 1 / 1 / 2 / 2;
-  justify-self: left;
-  align-self: start;
-  padding: 20px;
-  width: 30px;
+  width: 100%;
+  text-align: center;
 }
 
 #illustrate .AI img {
-  width: 1200px;
-  margin: 20px;
+  width: 80%;
 }
-
 /*------------------------------------------
 industries section
 ------------------------------------------------*/
-#industries {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-  width: 20px;
-}
-
-#industries .title {
-  grid-area: 1 / 1 / 2 / 2;
-
-  width: 10px;
-}
-
+#industries,
+#industries .title,
 #industries .title img {
-  width: 1349px;
-  margin: 0px;
+  width: 100%;
 }
+
 /*---------------------------------------------------------
 Get Started Button
 -----------------------------------------------------------*/
-#button {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr;
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-
-  padding-top: 30px;
-  align-text: center;
-}
-
+#button,
 #button .start {
-  grid-area: 1 / 1 / 2 / 2;
-
-  width: 10px;
+  width: 100%;
+  text-align: center;
+  margin: 30px 0 10px 0;
 }
 
 #button img {
-  margin-left: 600px;
-  border: 20px;
-  width: 150px;
-  margin-top: 10px;
+  width: 20%;
 }
 
 /*--------------------------------------------------------------
@@ -992,13 +957,18 @@ products
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  grid-column-gap: 10px;
-  grid-row-gap: 10px;
+  grid-column-gap: 30px;
+  grid-row-gap: 30px;
   margin: 0px;
-
   background-color: #e9eef7b4;
   padding: 30px;
   margin: 0px;
+}
+
+@media (max-width: 991px) {
+  #parent {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
 }
 
 .p-title {
@@ -1021,16 +991,13 @@ products
 }
 
 #parent .icon-box {
-  height: 350px;
-
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
   padding-right: 100px;
   padding-left: 100px;
   transition: all ease-in-out 0.2s;
   border-radius: 15px;
-  justify-content: space-around;
-  margin: 30px;
-  padding: 5px;
+  justify-content: space-between;
+  padding: 10px;
   background-color: #fff;
 }
 
@@ -1126,31 +1093,6 @@ products
   color: #497bfa;
 }
 
-@media (max-width: 1024px) {
-  #parent h2,
-  #parent .div11 {
-    padding: 0px;
-    margin: 0px;
-  }
-}
-
-@media (max-width: 992px) {
-  . {
-    min-height: 400px;
-  }
-  .why-us .content {
-    padding-top: 30px;
-  }
-  .why-us .accordion-list {
-    padding-bottom: 30px;
-  }
-}
-
-@media (max-width: 575px) {
-  .why-us .img {
-    min-height: 200px;
-  }
-}
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1187,6 +1129,10 @@ products
 .services .icon-box h4 a {
   color: #37517e;
   transition: ease-in-out 0.3s;
+}
+
+#services h3 {
+  font-size: 20px;
 }
 
 .services .icon-box p {
@@ -1684,6 +1630,7 @@ products
   font-size: 14px;
   background: #1f3569;
   word-spacing: normal;
+  padding-top: 15px;
 }
 
 #footer .footer-newsletter {
@@ -1740,7 +1687,7 @@ products
 }
 
 #footer .footer-top {
-  padding: 60px 0 30px 0;
+  padding: 20px 0 30px 0;
   background: #1f3569;
 }
 
@@ -1762,8 +1709,9 @@ products
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Avenir", sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #fff;
+  padding-right: 10px;
 }
 
 #footer .footer-top h4 {
@@ -1781,7 +1729,14 @@ products
 #footer .footer-top .footer-links ul {
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin-left: 90px;
+}
+
+#footer .footer-top .footer-links .prod {
+  margin-right: 60px;
+}
+#footer .footer-top .footer-links h4 {
+  margin-left: 100px;
 }
 
 #footer .footer-top .footer-links ul i {
@@ -1794,7 +1749,9 @@ products
 #footer .footer-top .footer-links ul li {
   padding: 10px 0;
   display: flex;
-  align-items: center;
+  align-items: left;
+
+  font-size: 16px;
 }
 
 #footer .footer-top .footer-links ul li:first-child {
