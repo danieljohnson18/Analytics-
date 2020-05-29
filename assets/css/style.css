@@ -1099,40 +1099,51 @@ products
 
 .services .icon-box {
   box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
-  padding: 50px 30px 20px;
+  padding: 10px 20px 10px;
   transition: all ease-in-out 0.4s;
   background: #fff;
-  border-radius: 15px;
-  text-align: center;
+  border-radius: 10px;
+  text-align: left;
 }
 
 .services .icon-box .icon {
-  margin: 40px;
+  margin-bottom: 10px;
+  width: 70px;
+  height: 80px;
+  align-items: center;
+  justify-content: center;
+  margin-left: 45px;
 }
 
-#services .container {
+#services .icon-box .icon img {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 10px;
+  padding-right: 15px;
 }
-
-.services .icon-box .icon i {
-  color: #47b2e4;
-  font-size: 36px;
-  transition: 0.3s;
-}
-
 .services .icon-box h4 {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
   color: #37517e;
+  margin-top: 10px;
 }
 
+.services .icon-box h1 {
+  font-weight: 500;
+  margin-bottom: 15px;
+  font-size: 20px;
+  color: #000;
+  margin-top: 5px;
+}
 .services .icon-box h4 a {
   color: #37517e;
   transition: ease-in-out 0.3s;
 }
 
 #services h3 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .services .icon-box p {
